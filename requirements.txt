@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+mcp-agent>=0.0.14
+google-generativeai>=0.5.4
+google-genai>=0.8.0
+asyncio>=3.4.3
+python-dotenv>=1.0.1
+playwright>=1.40.0
